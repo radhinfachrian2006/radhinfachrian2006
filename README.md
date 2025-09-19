@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Radhin </h1>
 <p align="center">
-  <img src="https://pin.it/2pEHt0lir" alt="Banner" width="600"/>
+  <img src="c:\Users\radhi\Downloads\Jujutsu kaisen.jpg" alt="Banner" width="600"/>
 </p>
 
 ---
@@ -9,8 +9,7 @@
 - 🎓 I’m currently a **student** in Universitas Gadjah Mada
 - 💻 Interested in **Programming, Geoscience, and AI**  
 - 🌱 Currently learning **Git & GitHub**  
-- 🎶 Hobbies: Running, Music, and Reading  
-
+- 🎶 Hobbies: Running, Music, and Watching Podcast 
 
 ---
 
@@ -20,14 +19,6 @@
 | Python        |⭐⭐|
 | Git & GitHub  |⭐⭐|
 | VSCode        |⭐⭐|
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="langs" height="150"/>
-</p>
 
 ---
 
