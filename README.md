@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Radhin </h1>
 <p align="center">
-  <img src="c:\Users\radhi\Downloads\Jujutsu kaisen.jpg" alt="Banner" width="600"/>
+  <img src="https://i.pinimg.com/1200x/84/72/e1/8472e161f906a6e9b08c3d9d74f24754.jpg" alt="Banner" width="600"/>
 </p>
 
 ---
