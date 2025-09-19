@@ -33,7 +33,11 @@
   <a href="mailto:radhinfachrian@mail.ugm.ac.id">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge"/>
   </a>
+  <a href="https://www.instagram.com/rdhinf">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?logo=instagram&style=for-the-badge"/>
+  </a>
 </p>
+
 
 ---
 
